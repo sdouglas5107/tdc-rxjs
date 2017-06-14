@@ -1,0 +1,30 @@
+{
+  "name": "tdc-rxjs",
+  "version": "1.0.0",
+  "description": "Use case of RXJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "webpack-dev-server --watch --inline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdouglas5107/tdc-rxjs.git"
+  },
+  "keywords": [
+    "RXJS"
+  ],
+  "author": "Douglas Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdouglas5107/tdc-rxjs/issues"
+  },
+  "homepage": "https://github.com/sdouglas5107/tdc-rxjs#readme",
+  "dependencies": {
+    "rxjs": "^5.4.0"
+  },
+  "devDependencies": {
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
